@@ -159,7 +159,7 @@ def cancel_booking():
 
 while True:
 
-    print("\n===== AUDITORIUM BOOKING SYSTEM =====")
+    print("\n----> AUDITORIUM BOOKING SYSTEM <----")
     print("1. Make Booking")
     print("2. Show Bookings")
     print("3. cancel booking")
